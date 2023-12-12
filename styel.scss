@@ -1,0 +1,41 @@
+/*-- scss:defaults --*/
+
+$presentation-h1-font-size: 2em;
+$presentation-h2-font-size: 1.5em;
+
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap');
+$font-family-sans-serif: Inter;
+/*-- scss:rules --*/
+
+
+  .reveal .slide blockquote {
+    border-left: 3px solid $text-muted;
+    padding-left: 0.5em;
+  }
+
+.inline-fragment {
+  display: flex;
+}
+
+th, td {
+  font-size: 0.7em;
+}
+
+.blare {
+  filter: blur(2px);
+  -webkit-filter: blur(8px);
+}
+
+.blare-text {
+  color: transparent;
+  text-shadow: 0 0 20px #fff;
+}
+
+.larger-font{
+  font-size: 70px;
+}
+
+.thanks{
+  text-align: center;
+  font-size: 220px;
+}
