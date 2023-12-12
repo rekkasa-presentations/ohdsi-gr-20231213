@@ -7,7 +7,7 @@ format:
   revealjs: 
     default-image-extension: tiff
     auto-stretch: true
-    theme: styel.scss
+    theme: style.scss
 fig-align: center
 ---
 
