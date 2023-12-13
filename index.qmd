@@ -177,24 +177,6 @@ $$
 
 
 
-## Σχετικός κίνδυνος - Αποτελέσματα
-
-::: {.panel-tabset}
-
-### Συνολικά
-
-![](figures/overall.png)
-
-### Κύρια
-
-![](figures/relative-main.png)
-
-### Aσφαλείας
-
-![](figures/relative-safety.png){width=57%}
-
-:::
-
 ## Απόλυτος κίνδυνος - Αποτελέσματα
 
 ::: {.panel-tabset}
